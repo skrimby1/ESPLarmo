@@ -15,4 +15,5 @@ Current status
 * Animated sleeping Mario, for nighttime in Mario 64 theme
 * Joystick functionality
 * Switching to menu with joystick
-[Watch the video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Demonstration Video
+  [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

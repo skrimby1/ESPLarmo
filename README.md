@@ -6,8 +6,8 @@ Developed in Micropython, which is a high-level language compared to C/C++, so c
 The goal of the project is to replicate the functionality of Alarmo, but also add more features that Nintendo haven't implemented.
 
 New Features:
-* Mulitple alarms for the week
-* Speaker reminder
+* Set as many alarms for the week as you want
+* Text-to-speech on reminders
 
 
 Current status - Demonstration video: [Video](https://www.youtube.com/shorts/_QtxY7juN5A)

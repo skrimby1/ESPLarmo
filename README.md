@@ -14,5 +14,6 @@ Current status - Demonstration video: [Video](https://www.youtube.com/shorts/_Qt
 * Displays current date and time, in Nintendo design and style.
 * Animated sleeping Mario, for nighttime in Mario 64 theme
 * Joystick functionality
-* Switching to menu with joystick
+* Switching to menu with joystick![demonstration](https://github.com/user-attachments/assets/82b58026-7a42-41c3-994c-316aacca402f)
+
 

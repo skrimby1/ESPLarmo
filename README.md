@@ -12,3 +12,5 @@ New Features:
 Current status
 * Displays current date and time, in Nintendo design and style.
 * Animated sleeping Mario, for nighttime display
+* Joystick functionality
+* Switching to menu with joystick

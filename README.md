@@ -10,9 +10,9 @@ New Features:
 * Speaker reminder
 
 
-Current status
+Current status - Demonstration video: [Video](https://www.youtube.com/shorts/_QtxY7juN5A)
 * Displays current date and time, in Nintendo design and style.
 * Animated sleeping Mario, for nighttime in Mario 64 theme
 * Joystick functionality
 * Switching to menu with joystick
-[Video](https://www.youtube.com/shorts/_QtxY7juN5A)
+

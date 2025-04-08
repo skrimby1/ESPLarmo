@@ -1,6 +1,7 @@
 # ESPLarmo
 
-ESP-based version of Nintendo smart alarm clock "Alarmo", not intended for sale, just a hobby project. This is still in very early stages
+ESP-based version of Nintendo smart alarm clock "Alarmo", not intended for sale, just a hobby project. This is still in very early stages.
+Developed in Micropython, where the memory is limited compared to C/C++, so clever memory management is important.
 
 The goal of the project is to replicate the functionality of Alarmo, but also add more features that Nintendo haven't implemented.
 

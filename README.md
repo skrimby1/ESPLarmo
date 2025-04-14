@@ -11,7 +11,7 @@ New Features:
 
 
 Current status - Demonstration video: [Video](https://www.youtube.com/shorts/_QtxY7juN5A)
-* Displays current date and time, in Nintendo design and style.
+* Displays real-time current date and time, in Nintendo design and style.
 * Animated sleeping Mario, for nighttime in Mario 64 theme
 * Joystick functionality
 * Switching to menu with joystick
